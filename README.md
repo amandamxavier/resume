@@ -4,15 +4,15 @@
 
 ## ☁️ Download
 
-[Click here](files/Résumé.pdf) to download the PDF file.
+[Click here](../../raw/main/files/Résumé.pdf) to download the PDF file.
 
-[Clique aqui](files/Currículo.pdf) para baixar o arquivo PDF.
+[Clique aqui](../../raw/main/files/Currículo.pdf) para baixar o arquivo PDF.
 
 ### 📃 Template
 
-[Click here](files/templates/Résumé.docx) to download the Word template.
+[Click here](../../raw/main/files/templates/Résumé.docx) to download the Word template.
 
-[Clique aqui](files/templates/Currículo.docx) para baixar o modelo do Word.
+[Clique aqui](../../raw/main/files/templates/Currículo.docx) para baixar o modelo do Word.
 
 ## 📜 License
 
