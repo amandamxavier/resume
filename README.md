@@ -8,9 +8,6 @@
 
 [Clique aqui](../../raw/main/files/Currículo.pdf) para baixar o arquivo PDF.
 
-### 🕹️ Game Developer
-
-[Click here](../../raw/main/files/gamedev/Resume.pdf) to download the PDF file.
 
 ### 📃 Template
 
